@@ -11,7 +11,6 @@
     <a aria-label="Completado" href="https://nextlevelweek.com">
         <img alt="FeedGet" src="https://img.shields.io/badge/FeedGet-NLW 8.0-333?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==&labelColor=b737b7&color=b74bb7"></img>
     </a>
-    <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/JasonH33/FeedGet?labelColor=e53089&color=e54493">
     <a href="https://github.com/JasonH33/FeedGet/blob/main/LICENSE">
         <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&labelColor=e53089&color=e54493">
     </a>
@@ -154,7 +153,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-  <a href="https://nlw-feedget-jasonh33.vercel.app/">💬 Site hospedado na Vercel 📋</a>
+  <a href="https://nlw-feedget-rho.vercel.app/">💬 Site hospedado na Vercel 📋</a>
 
 #### Na sua maquina:
 <details>
